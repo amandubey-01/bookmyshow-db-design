@@ -127,3 +127,4 @@ See `BookMyShow_DB_Design.docx` for the complete write-up including:
 - Normalization walkthrough (1NF → BCNF) with examples
 - Sample data tables
 - P2 query with annotated explanation and expected output
+## Submitted by: YOUR_NAME
